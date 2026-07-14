@@ -102,10 +102,7 @@ Implémentation d'une blockchain simplifiée en deux parties :
 Voir [labs/lab3-utxo/README.md](labs/lab3-utxo/README.md) pour le détail
 (prérequis : Python 3.12+, librairie `cryptography`).
 
-## Pourquoi cette organisation
+## Auteur
+Hajar Chahbi
+Année 2025-2026
 
-Le dépôt git `Analyse-Articles-Blockchain-Security` était à l'origine dédié
-uniquement au projet d'analyse d'articles (dossier `projet/`). Les 3 TPs ont
-été ajoutés dans le même dossier local par commodité ; ils sont rangés dans
-`labs/` pour ne pas mélanger deux livrables distincts, tout en restant dans le
-même dépôt.
